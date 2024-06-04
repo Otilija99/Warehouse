@@ -1,0 +1,10 @@
+{
+  "name": "raivo/warehouse-app",
+  "description": "A simple warehouse management application.",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Warehouse\\": "src/"
+    }
+  }
+}

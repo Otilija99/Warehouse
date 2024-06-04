@@ -1,0 +1,10 @@
+[
+  {
+    "username": "admin",
+    "access_code": "1234"
+  },
+  {
+    "username": "user1",
+    "access_code": "abcd"
+  }
+]
